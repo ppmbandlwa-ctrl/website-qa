@@ -1,0 +1,14 @@
+BugReport.class
+TestCase.class
+SauceDemoCheckoutTest.class
+BugReport$Priority.class
+BugReport$Status.class
+TestCase$Priority.class
+BugTracker.class
+BugReport$Severity.class
+SauceDemoLoginTest.class
+SauceDemoCartTest.class
+SauceDemoInvalidLoginTest.class
+UserRegistration.class
+QARunner.class
+TestCase$Suite.class
